@@ -1,11 +1,1 @@
-HPC UGent
-==========
-
-Welcome to the github projects page of the UGent High Performance Computing (HPC) team.
-
-EasyBuild
----------
-
-EasyBuild is a software installation framework in Python that allows you to install software in a structured and robust way.
-
-See http://hpcugent.github.com/easybuild for more information.
+This repo contains the entry webpage for the HPC UGent software tools hosted on github.
